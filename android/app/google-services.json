@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64752086813",
+    "project_id": "lion-401f7",
+    "storage_bucket": "lion-401f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64752086813:android:038b0d539d68b80d38fbf4",
+        "android_client_info": {
+          "package_name": "com.example.lion_hsc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoBI62Vod3savq26LuRZOcAAhKh-9GHno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
